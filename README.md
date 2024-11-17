@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @klaidbegeja
 - 👀 I’m interested in SQL, T-SQL, Python, C#, Javascript
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me ...
 
